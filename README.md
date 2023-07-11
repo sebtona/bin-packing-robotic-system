@@ -1,7 +1,7 @@
 # Bin Packing Robotic System
 My graduate research aims at creating an accessible robotic system that can be used to test various 3D bin packing algorithms. An arm robot was integrated with a depth sensing camera so that given a random set of objects, each object can be grasped, 3D scanned, and packed into a container in a pose based on chosen criteria.
 
-<img src="https://github.com/sebtona/bin-packing-robotic-system/blob/main/thumbnail.png" alt="Sawyer" width="400"/>
+<img src="https://github.com/sebtona/bin-packing-robotic-system/blob/main/thumbnail.jpg" alt="Sawyer" width="400"/>
 
 ## Challenges
 - Repurposing hand-eye calibration code to work with Sawyer robot
